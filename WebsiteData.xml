@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Automation>
+	<Execution>
+		<login1>
+			<username>razadaniyal61@gmail.com</username>
+			<password>rd@786%0</password>
+		</login1>
+		<login2>
+			<username>razadaniyal61@gmail.com</username>
+			<password>rd@786%0abc</password>
+		</login2>
+		<login3>
+			<username>razadaniyal634@gmail.com</username>
+			<password>rd@786%0</password>
+		</login3>
+		<login4>
+			<username>razaal634@gmail.com</username>
+			<password>rd@786%0abc</password>
+		</login4>
+	</Execution>
+</Automation>
